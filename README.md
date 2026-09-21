@@ -42,8 +42,6 @@ An automated parking gate system built with **Arduino Uno**, **IR sensors**, a *
 
 > LCD I2C address used in code: `0x27` (change in code if your module uses `0x3F`).
 
-A Tinkercad circuit diagram is included in the repo (see `.<img width="1536" height="632" alt="circuit-diagram" src="https://github.com/user-attachments/assets/be3a204a-dcb5-46e8-9636-f51dd7e72039" />`)
-
 
 ---
 
