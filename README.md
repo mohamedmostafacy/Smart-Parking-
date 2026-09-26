@@ -1,4 +1,4 @@
-# 🚗 Smart Parking System (Arduino + C++)
+<img width="1536" height="632" alt="image" src="https://github.com/user-attachments/assets/d0303307-4d92-48af-bc32-d0e83dff0d3f" /># 🚗 Smart Parking System (Arduino + C++)
 
 An automated parking gate system built with **Arduino Uno**, **IR sensors**, a **servo motor**, and a **16x2 I2C LCD**. The system tracks available parking slots in real time, opens/closes a gate barrier automatically, and displays live slot availability on the LCD.
 
@@ -41,6 +41,8 @@ An automated parking gate system built with **Arduino Uno**, **IR sensors**, a *
 | 5V / GND    | Power rail for all components |
 
 > LCD I2C address used in code: `0x27` (change in code if your module uses `0x3F`).
+
+![image alt](https://github.com/mohamedmostafacy/Smart-Parking-/blob/main/circuit-diagram.png?raw=true)
 
 
 ---
