@@ -42,8 +42,9 @@ An automated parking gate system built with **Arduino Uno**, **IR sensors**, a *
 
 > LCD I2C address used in code: `0x27` (change in code if your module uses `0x3F`).
 
-![image alt](https://github.com/mohamedmostafacy/Smart-Parking-/blob/main/circuit-diagram.png?raw=true)
 
+> Circuit Diagram 
+![image alt](https://github.com/mohamedmostafacy/Smart-Parking-/blob/main/circuit-diagram.png?raw=true)
 
 ---
 
